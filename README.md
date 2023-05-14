@@ -48,13 +48,13 @@
 
 <!-- YOUTUBE:START -->
 - [Create your own FiveM Resource in just a couple of minutes - 2022 - Resource CLI](https://www.youtube.com/watch?v=9TBuQu9VqF4)
-- [Zerio Bobcat Security Heist | Showcase | Free](https://www.youtube.com/watch?v=P0h3W8WqN2M)
-- [Zerio Proximity Prompts Showcase](https://www.youtube.com/watch?v=S2k_cC64QG8)
-- [Zerio Crafting Showcase](https://www.youtube.com/watch?v=6Wxj8g2F98s)
-- [Zerio Bossmenu Showcase](https://www.youtube.com/watch?v=h4vvz2NTLFI)
+- [ Bobcat Security Heist | Showcase | Free](https://www.youtube.com/watch?v=P0h3W8WqN2M)
+- [ Proximity Prompts Showcase](https://www.youtube.com/watch?v=S2k_cC64QG8)
+- [ Crafting Showcase](https://www.youtube.com/watch?v=6Wxj8g2F98s)
+- [ Bossmenu Showcase](https://www.youtube.com/watch?v=h4vvz2NTLFI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/c/Zerio)
+➡️ [more videos...](https://youtube.com/c/)
 
 ---
 
@@ -62,13 +62,12 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Z3rio/count.svg" />
+  <img src="https://profile-counter.glitch.me/count.svg" />
 </p>
 
 <img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 <img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 <img alt="Zerio's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Z3rio&theme=darkhub"/>
 
-[website]: https://zerio-scripts.com
-[store]: https://store.zerio-scripts.com
-[youtube]: https://youtube.com/Zerio
+[website]: https://nirmal.tndev.in
+[youtube]: https://youtube.com/gamingwithnirmal
