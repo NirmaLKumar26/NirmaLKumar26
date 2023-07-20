@@ -1,8 +1,8 @@
-# Hi there, I'm Nirmal, aka [NirmaL][youtube] 👋 
+# Hi there, I'm Nirmal 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMox2nzoW3aO-FLXrq_xHQQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube] <!-- [![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com) -->
 [![Website](https://img.shields.io/website?label=nirmal.tndev.in&style=for-the-badge&url=https%3A%2F%2Fstore.zerio-scripts.com)](https://nirmal.tndev.in)
-[![Discord](https://img.shields.io/discord/526606147877339166?style=for-the-badge&label=Discord%20Server)]([http://discord.tndev.in](https://discord.gg/BRmuQrxXMy))
+[![Discord](https://img.shields.io/discord/1117025646481248336?style=for-the-badge&label=Discord%20Server)]([http://discord.tndev.in](https://discord.gg/e2ja8VXFnc))
 
 ## I'm a Teenager with a lot of free time!
 
@@ -11,11 +11,6 @@
 - 🤔 I’m currently learning more advanced Vue.JS and Figma
 - 🧑‍🤝‍🧑 Looking for new and fun projects
 - ✈️ Fun fact: I fly glider planes and do bouldering/climbing
-
-### Connect with me:
-
-[![website](./img/globe-dark.svg)](https://nirmal.tndev.in)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCMox2nzoW3aO-FLXrq_xHQQ)
 
 ### Languages and Tools:
 
@@ -50,7 +45,7 @@
   <img src="https://profile-counter.glitch.me/count.svg" />
 </p>
 
-<img align="left" alt="Zerio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z3rio&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<img align="center" alt="Nirmal's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirmaLKumar26&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 
 [website]: https://nirmal.tndev.in
 [youtube]: https://youtube.com/gamingwithnirmal
