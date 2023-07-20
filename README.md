@@ -4,13 +4,13 @@
 [![Website](https://img.shields.io/website?label=nirmal.tndev.in&style=for-the-badge&url=https%3A%2F%2Fstore.zerio-scripts.com)](https://nirmal.tndev.in)
 [![Discord](https://img.shields.io/discord/526606147877339166?style=for-the-badge&label=Discord%20Server)]([http://discord.zerio-scripts.com](https://discord.gg/BRmuQrxXMy))
 
-## I'm a Teenager with alot of freetime!
+## I'm a Teenager with a lot of free time!
 
-- Official QBCore developer & contributer.
+- Web Developer & System Admin
 - 🔭 Check out my free releases!
 - 🤔 I’m currently learning more advanced Vue.JS and Figma
 - 🧑‍🤝‍🧑 Looking for new and fun projects
-- ✈️ Fun fact: I fly glider planes and do bouldering / climbing
+- ✈️ Fun fact: I fly glider planes and do bouldering/climbing
 
 ### Connect with me:
 
@@ -42,21 +42,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Create your own FiveM Resource in just a couple of minutes - 2022 - Resource CLI](https://www.youtube.com/watch?v=9TBuQu9VqF4)
-- [ Bobcat Security Heist | Showcase | Free](https://www.youtube.com/watch?v=P0h3W8WqN2M)
-- [ Proximity Prompts Showcase](https://www.youtube.com/watch?v=S2k_cC64QG8)
-- [ Crafting Showcase](https://www.youtube.com/watch?v=6Wxj8g2F98s)
-- [ Bossmenu Showcase](https://www.youtube.com/watch?v=h4vvz2NTLFI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/c/)
-
----
 
 ## :zap: GitHub Stats
 
