@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMox2nzoW3aO-FLXrq_xHQQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube] <!-- [![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com) -->
 [![Website](https://img.shields.io/website?label=nirmal.tndev.in&style=for-the-badge&url=https%3A%2F%2Fstore.zerio-scripts.com)](https://nirmal.tndev.in)
-[![Discord](https://img.shields.io/discord/1117025646481248336?style=for-the-badge&label=Discord%20Server)]([http://discord.tndev.in](https://discord.gg/BRmuQrxXMy))
+[![Discord](https://img.shields.io/discord/526606147877339166?style=for-the-badge&label=Discord%20Server)]([http://discord.tndev.in](https://discord.gg/etTMNChaVX))
 
 ## I'm a Teenager with a lot of free time!
 
